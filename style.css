@@ -22,10 +22,17 @@ body{
 }
 
 .return{
-    background-color: white;
+    background-color: blanchedalmond;
     font-family:  monospace;
     font-weight: bold;
     color: black;
 }
+.spaghetti{
+    font-family: "Arial";
+    font-size: 16px;
 
+}
 
+h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
